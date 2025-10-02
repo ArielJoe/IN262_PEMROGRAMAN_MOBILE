@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name">Exercise_LemonClick</string>
     <string name="first">Tap the tree to pick lemon</string>
     <string name="second">Tap the lemon 3 times to squeeze it</string>
     <string name="third">Tap the glass to drink it</string>
