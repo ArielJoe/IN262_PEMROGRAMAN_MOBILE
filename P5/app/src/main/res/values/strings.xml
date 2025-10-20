@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string-array name="grants">
+        <item>Hibah UMKM</item>
+        <item>Hibah Merdeka</item>
+    </string-array>
+    <string-array name="departments">
+        <item>IT</item>
+        <item>Finance</item>
+    </string-array>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
