@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun MainPage() {
     val ctx = LocalContext.current
-    val weathers = loadWeatherData(ctx) ?: emptyList()
+    val weathers = loadWeatherData(ctx).data
     val navController = rememberNavController()
 
     NavHost(

@@ -1,202 +1,206 @@
-[
-  {
-    "id": 1,
-    "kota": "Jakarta",
-    "provinsi": "DKI Jakarta",
-    "suhu": 32,
-    "kelembapan": 75,
-    "kondisi": "Cerah Berawan",
-    "kecepatan_angin": 10,
-    "arah_angin": "Timur Laut"
-  },
-  {
-    "id": 2,
-    "kota": "Bandung",
-    "provinsi": "Jawa Barat",
-    "suhu": 24,
-    "kelembapan": 85,
-    "kondisi": "Hujan Ringan",
-    "kecepatan_angin": 8,
-    "arah_angin": "Barat Daya"
-  },
-  {
-    "id": 3,
-    "kota": "Surabaya",
-    "provinsi": "Jawa Timur",
-    "suhu": 34,
-    "kelembapan": 70,
-    "kondisi": "Panas Terik",
-    "kecepatan_angin": 12,
-    "arah_angin": "Utara"
-  },
-  {
-    "id": 4,
-    "kota": "Medan",
-    "provinsi": "Sumatera Utara",
-    "suhu": 30,
-    "kelembapan": 80,
-    "kondisi": "Berawan",
-    "kecepatan_angin": 9,
-    "arah_angin": "Selatan"
-  },
-  {
-    "id": 5,
-    "kota": "Denpasar",
-    "provinsi": "Bali",
-    "suhu": 31,
-    "kelembapan": 78,
-    "kondisi": "Cerah",
-    "kecepatan_angin": 7,
-    "arah_angin": "Tenggara"
-  },
-  {
-    "id": 6,
-    "kota": "Makassar",
-    "provinsi": "Sulawesi Selatan",
-    "suhu": 33,
-    "kelembapan": 76,
-    "kondisi": "Cerah Berawan",
-    "kecepatan_angin": 11,
-    "arah_angin": "Timur"
-  },
-  {
-    "id": 7,
-    "kota": "Pontianak",
-    "provinsi": "Kalimantan Barat",
-    "suhu": 29,
-    "kelembapan": 88,
-    "kondisi": "Hujan Sedang",
-    "kecepatan_angin": 6,
-    "arah_angin": "Barat Laut"
-  },
-  {
-    "id": 8,
-    "kota": "Yogyakarta",
-    "provinsi": "DI Yogyakarta",
-    "suhu": 28,
-    "kelembapan": 82,
-    "kondisi": "Cerah Berawan",
-    "kecepatan_angin": 10,
-    "arah_angin": "Timur"
-  },
-  {
-    "id": 9,
-    "kota": "Semarang",
-    "provinsi": "Jawa Tengah",
-    "suhu": 30,
-    "kelembapan": 79,
-    "kondisi": "Berawan",
-    "kecepatan_angin": 9,
-    "arah_angin": "Barat"
-  },
-  {
-    "id": 10,
-    "kota": "Palembang",
-    "provinsi": "Sumatera Selatan",
-    "suhu": 33,
-    "kelembapan": 77,
-    "kondisi": "Cerah",
-    "kecepatan_angin": 8,
-    "arah_angin": "Tenggara"
-  },
-  {
-    "id": 11,
-    "kota": "Padang",
-    "provinsi": "Sumatera Barat",
-    "suhu": 29,
-    "kelembapan": 86,
-    "kondisi": "Hujan Ringan",
-    "kecepatan_angin": 7,
-    "arah_angin": "Barat Daya"
-  },
-  {
-    "id": 12,
-    "kota": "Manado",
-    "provinsi": "Sulawesi Utara",
-    "suhu": 31,
-    "kelembapan": 79,
-    "kondisi": "Cerah Berawan",
-    "kecepatan_angin": 10,
-    "arah_angin": "Timur Laut"
-  },
-  {
-    "id": 13,
-    "kota": "Banjarmasin",
-    "provinsi": "Kalimantan Selatan",
-    "suhu": 32,
-    "kelembapan": 81,
-    "kondisi": "Berawan",
-    "kecepatan_angin": 8,
-    "arah_angin": "Barat"
-  },
-  {
-    "id": 14,
-    "kota": "Samarinda",
-    "provinsi": "Kalimantan Timur",
-    "suhu": 31,
-    "kelembapan": 83,
-    "kondisi": "Cerah",
-    "kecepatan_angin": 7,
-    "arah_angin": "Tenggara"
-  },
-  {
-    "id": 15,
-    "kota": "Pekanbaru",
-    "provinsi": "Riau",
-    "suhu": 32,
-    "kelembapan": 76,
-    "kondisi": "Cerah Berawan",
-    "kecepatan_angin": 9,
-    "arah_angin": "Timur Laut"
-  },
-  {
-    "id": 16,
-    "kota": "Balikpapan",
-    "provinsi": "Kalimantan Timur",
-    "suhu": 30,
-    "kelembapan": 80,
-    "kondisi": "Berawan",
-    "kecepatan_angin": 8,
-    "arah_angin": "Barat Laut"
-  },
-  {
-    "id": 17,
-    "kota": "Kupang",
-    "provinsi": "Nusa Tenggara Timur",
-    "suhu": 33,
-    "kelembapan": 68,
-    "kondisi": "Panas Terik",
-    "kecepatan_angin": 13,
-    "arah_angin": "Timur"
-  },
-  {
-    "id": 18,
-    "kota": "Jayapura",
-    "provinsi": "Papua",
-    "suhu": 29,
-    "kelembapan": 85,
-    "kondisi": "Hujan Ringan",
-    "kecepatan_angin": 6,
-    "arah_angin": "Barat"
-  },
-  {
-    "id": 19,
-    "kota": "Ambon",
-    "provinsi": "Maluku",
-    "suhu": 30,
-    "kelembapan": 82,
-    "kondisi": "Cerah Berawan",
-    "kecepatan_angin": 9,
-    "arah_angin": "Selatan"
-  },
-  {
-    "id": 20,
-    "kota": "Ternate",
-    "provinsi": "Maluku Utara",
-    "suhu": 31,
-    "kelembapan": 80,
-    "kondisi": "Cerah",
-    "kecepatan_angin": 8,
-    "arah_angin": "Tenggara"
-  }
-]
+{
+  "status": "success",
+  "message": "Data cuaca di Indonesia berhasil dimuat",
+  "data": [
+    {
+      "id": 1,
+      "kota": "Jakarta",
+      "provinsi": "DKI Jakarta",
+      "suhu": 32,
+      "kelembapan": 75,
+      "kondisi": "Cerah Berawan",
+      "kecepatan_angin": 10,
+      "arah_angin": "Timur Laut"
+    },
+    {
+      "id": 2,
+      "kota": "Bandung",
+      "provinsi": "Jawa Barat",
+      "suhu": 24,
+      "kelembapan": 85,
+      "kondisi": "Hujan Ringan",
+      "kecepatan_angin": 8,
+      "arah_angin": "Barat Daya"
+    },
+    {
+      "id": 3,
+      "kota": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "suhu": 34,
+      "kelembapan": 70,
+      "kondisi": "Panas Terik",
+      "kecepatan_angin": 12,
+      "arah_angin": "Utara"
+    },
+    {
+      "id": 4,
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara",
+      "suhu": 30,
+      "kelembapan": 80,
+      "kondisi": "Berawan",
+      "kecepatan_angin": 9,
+      "arah_angin": "Selatan"
+    },
+    {
+      "id": 5,
+      "kota": "Denpasar",
+      "provinsi": "Bali",
+      "suhu": 31,
+      "kelembapan": 78,
+      "kondisi": "Cerah",
+      "kecepatan_angin": 7,
+      "arah_angin": "Tenggara"
+    },
+    {
+      "id": 6,
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "suhu": 33,
+      "kelembapan": 76,
+      "kondisi": "Cerah Berawan",
+      "kecepatan_angin": 11,
+      "arah_angin": "Timur"
+    },
+    {
+      "id": 7,
+      "kota": "Pontianak",
+      "provinsi": "Kalimantan Barat",
+      "suhu": 29,
+      "kelembapan": 88,
+      "kondisi": "Hujan Sedang",
+      "kecepatan_angin": 6,
+      "arah_angin": "Barat Laut"
+    },
+    {
+      "id": 8,
+      "kota": "Yogyakarta",
+      "provinsi": "DI Yogyakarta",
+      "suhu": 28,
+      "kelembapan": 82,
+      "kondisi": "Cerah Berawan",
+      "kecepatan_angin": 10,
+      "arah_angin": "Timur"
+    },
+    {
+      "id": 9,
+      "kota": "Semarang",
+      "provinsi": "Jawa Tengah",
+      "suhu": 30,
+      "kelembapan": 79,
+      "kondisi": "Berawan",
+      "kecepatan_angin": 9,
+      "arah_angin": "Barat"
+    },
+    {
+      "id": 10,
+      "kota": "Palembang",
+      "provinsi": "Sumatera Selatan",
+      "suhu": 33,
+      "kelembapan": 77,
+      "kondisi": "Cerah",
+      "kecepatan_angin": 8,
+      "arah_angin": "Tenggara"
+    },
+    {
+      "id": 11,
+      "kota": "Padang",
+      "provinsi": "Sumatera Barat",
+      "suhu": 29,
+      "kelembapan": 86,
+      "kondisi": "Hujan Ringan",
+      "kecepatan_angin": 7,
+      "arah_angin": "Barat Daya"
+    },
+    {
+      "id": 12,
+      "kota": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "suhu": 31,
+      "kelembapan": 79,
+      "kondisi": "Cerah Berawan",
+      "kecepatan_angin": 10,
+      "arah_angin": "Timur Laut"
+    },
+    {
+      "id": 13,
+      "kota": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "suhu": 32,
+      "kelembapan": 81,
+      "kondisi": "Berawan",
+      "kecepatan_angin": 8,
+      "arah_angin": "Barat"
+    },
+    {
+      "id": 14,
+      "kota": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "suhu": 31,
+      "kelembapan": 83,
+      "kondisi": "Cerah",
+      "kecepatan_angin": 7,
+      "arah_angin": "Tenggara"
+    },
+    {
+      "id": 15,
+      "kota": "Pekanbaru",
+      "provinsi": "Riau",
+      "suhu": 32,
+      "kelembapan": 76,
+      "kondisi": "Cerah Berawan",
+      "kecepatan_angin": 9,
+      "arah_angin": "Timur Laut"
+    },
+    {
+      "id": 16,
+      "kota": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "suhu": 30,
+      "kelembapan": 80,
+      "kondisi": "Berawan",
+      "kecepatan_angin": 8,
+      "arah_angin": "Barat Laut"
+    },
+    {
+      "id": 17,
+      "kota": "Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "suhu": 33,
+      "kelembapan": 68,
+      "kondisi": "Panas Terik",
+      "kecepatan_angin": 13,
+      "arah_angin": "Timur"
+    },
+    {
+      "id": 18,
+      "kota": "Jayapura",
+      "provinsi": "Papua",
+      "suhu": 29,
+      "kelembapan": 85,
+      "kondisi": "Hujan Ringan",
+      "kecepatan_angin": 6,
+      "arah_angin": "Barat"
+    },
+    {
+      "id": 19,
+      "kota": "Ambon",
+      "provinsi": "Maluku",
+      "suhu": 30,
+      "kelembapan": 82,
+      "kondisi": "Cerah Berawan",
+      "kecepatan_angin": 9,
+      "arah_angin": "Selatan"
+    },
+    {
+      "id": 20,
+      "kota": "Ternate",
+      "provinsi": "Maluku Utara",
+      "suhu": 31,
+      "kelembapan": 80,
+      "kondisi": "Cerah",
+      "kecepatan_angin": 8,
+      "arah_angin": "Tenggara"
+    }
+  ]
+}
