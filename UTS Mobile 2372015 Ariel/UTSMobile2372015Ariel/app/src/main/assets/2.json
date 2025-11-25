@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "nama": "One Piece",
+  "kategori": "Anime",
+  "rating": 9.2,
+  "tahun_terbit": 1999,
+  "deskripsi": "Luffy dan kru Bajak Laut Topi Jerami berpetualang untuk menemukan harta karun terbesar, One Piece, yang akan membuat Luffy menjadi Raja Bajak Laut. Mereka menghadapi musuh, bersekutu dengan teman, dan bertarung untuk meraih impian mereka.",
+  "studio": "Toei Animation",
+  "jumlah_episode": "1000",
+  "penulis": "Eiichiro Oda",
+  "genre": ["Action", "Adventure", "Fantasy", "Drama"],
+  "status": "On-Going"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3,
+  "nama": "Attack on Titan",
+  "kategori": "Anime",
+  "rating": 8.8,
+  "tahun_terbit": 2013,
+  "deskripsi": "Di dunia yang dihancurkan oleh raksasa, Eren Yeager dan teman-temannya berjuang untuk bertahan hidup. Mereka bergabung dengan militer untuk melawan raksasa yang telah menghancurkan rumah dan kehidupan mereka.",
+  "studio": "Wit Studio, MAPPA",
+  "jumlah_episode": "87",
+  "penulis": "Hajime Isayama",
+  "genre": ["Action", "Drama", "Fantasy", "Mystery"],
+  "status": "Selesai"
+}

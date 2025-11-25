@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "nama": "Death Note",
+  "kategori": "Anime",
+  "rating": 8.7,
+  "tahun_terbit": 2006,
+  "deskripsi": "Light Yagami, seorang siswa SMA cerdas, menemukan sebuah buku yang dapat membunuh siapa saja yang namanya ditulis di dalamnya. Light memutuskan untuk menggunakannya untuk menciptakan dunia yang 'lebih baik' dengan membasmi para penjahat.",
+  "studio": "Madhouse",
+  "jumlah_episode": "37",
+  "penulis": "Tsugumi Ohba",
+  "genre": ["Psychological", "Thriller", "Supernatural"],
+  "status": "Selesai"
+}

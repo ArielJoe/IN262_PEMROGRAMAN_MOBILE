@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "nama": "Demon Slayer",
+  "kategori": "Anime",
+  "rating": 8.9,
+  "tahun_terbit": 2019,
+  "deskripsi": "Tanjiro Kamado menjadi pemburu iblis setelah keluarganya dibunuh oleh iblis, dan adiknya, Nezuko, berubah menjadi iblis. Dia berjuang untuk menyelamatkan adiknya dan membasmi para iblis jahat yang mengancam dunia.",
+  "studio": "ufotable",
+  "jumlah_episode": "26 + Movie: 2",
+  "penulis": "Koyoharu Gotouge",
+  "genre": ["Action", "Supernatural", "Adventure"],
+  "status": "On-Going"
+}

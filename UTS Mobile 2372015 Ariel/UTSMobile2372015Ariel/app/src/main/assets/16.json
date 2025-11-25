@@ -1,0 +1,13 @@
+{
+  "id": 16,
+  "nama": "Fairy Tail",
+  "kategori": "Anime",
+  "rating": 8.3,
+  "tahun_terbit": 2009,
+  "deskripsi": "Natsu Dragneel, seorang anggota guild penyihir Fairy Tail, berpetualang bersama teman-temannya untuk menemukan naga Igneel yang hilang dan menghadapi berbagai musuh kuat yang mengancam dunia.",
+  "studio": "A-1 Pictures, Bridge",
+  "jumlah_episode": "328",
+  "penulis": "Hiro Mashima",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "Selesai"
+}

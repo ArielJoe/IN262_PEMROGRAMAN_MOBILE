@@ -1,0 +1,13 @@
+{
+  "id": 4,
+  "nama": "Berserk",
+  "kategori": "Manga",
+  "rating": 9.0,
+  "tahun_terbit": 1989,
+  "deskripsi": "Berserk mengikuti kisah Guts, seorang pejuang bertubuh besar yang dikenal dengan pedangnya yang berat, dalam perjalanan penuh darah melawan makhluk iblis, serta pencarian balas dendam terhadap mantan teman-temannya yang telah mengkhianatinya.",
+  "studio": "Tidak ada (Manga)",
+  "jumlah_episode": "364 (Manga, sampai 2021)",
+  "penulis": "Kentaro Miura",
+  "genre": ["Action", "Dark Fantasy", "Horror"],
+  "status": "Selesai (Manga masih berlanjut setelah Miura meninggal)"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 15,
+  "nama": "Neon Genesis Evangelion",
+  "kategori": "Anime",
+  "rating": 8.9,
+  "tahun_terbit": 1995,
+  "deskripsi": "Shinji Ikari dipanggil oleh ayahnya untuk bergabung dengan organisasi rahasia yang bertugas melawan makhluk raksasa yang disebut 'Angels'. Di dalamnya, Shinji mengendalikan Evangelion, sebuah robot besar untuk bertarung.",
+  "studio": "Gainax",
+  "jumlah_episode": "26",
+  "penulis": "Hideaki Anno",
+  "genre": ["Mecha", "Psychological", "Drama"],
+  "status": "Selesai"
+}

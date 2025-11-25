@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "nama": "Tokyo Ghoul",
+  "kategori": "Manga",
+  "rating": 8.7,
+  "tahun_terbit": 2011,
+  "deskripsi": "Ken Kaneki adalah mahasiswa biasa yang hidup di Tokyo, hingga suatu hari dia menjadi setengah ghoul setelah kecelakaan yang hampir merenggut nyawanya. Kini, dia harus belajar untuk bertahan hidup sebagai makhluk yang terjepit di antara dunia manusia dan ghoul.",
+  "studio": "Tidak ada (Manga)",
+  "jumlah_episode": "144 (Manga)",
+  "penulis": "Sui Ishida",
+  "genre": ["Action", "Horror", "Supernatural"],
+  "status": "Selesai"
+}

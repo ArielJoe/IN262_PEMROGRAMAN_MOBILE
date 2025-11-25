@@ -1,0 +1,13 @@
+{
+  "id": 12,
+  "nama": "One Punch Man",
+  "kategori": "Anime",
+  "rating": 8.9,
+  "tahun_terbit": 2015,
+  "deskripsi": "Saitama adalah seorang pria biasa yang ingin menjadi pahlawan. Setelah berlatih keras, ia menjadi sangat kuat dan mampu mengalahkan musuh dengan satu pukulan. Namun, ia merasa bosan karena tidak ada lawan yang sebanding.",
+  "studio": "Madhouse (Season 1), J.C. Staff (Season 2)",
+  "jumlah_episode": "24 (Season 1) + 12 (Season 2)",
+  "penulis": "ONE",
+  "genre": ["Action", "Comedy", "Superhero"],
+  "status": "On-Going"
+}

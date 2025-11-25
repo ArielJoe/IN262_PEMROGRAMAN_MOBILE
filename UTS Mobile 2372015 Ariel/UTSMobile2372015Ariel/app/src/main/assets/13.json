@@ -1,0 +1,13 @@
+{
+  "id": 13,
+  "nama": "Bleach",
+  "kategori": "Anime",
+  "rating": 8.4,
+  "tahun_terbit": 2004,
+  "deskripsi": "Ichigo Kurosaki, seorang remaja dengan kemampuan melihat roh, harus menjadi seorang Shinigami untuk melindungi dunia manusia dari roh jahat yang disebut Hollows. Ia juga terlibat dalam konflik yang lebih besar di dunia roh.",
+  "studio": "Studio Pierrot",
+  "jumlah_episode": "366",
+  "penulis": "Tite Kubo",
+  "genre": ["Action", "Supernatural", "Adventure"],
+  "status": "Selesai"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 14,
+  "nama": "JoJo's Bizarre Adventure",
+  "kategori": "Anime",
+  "rating": 8.6,
+  "tahun_terbit": 2012,
+  "deskripsi": "Cerita tentang keluarga Joestar yang memiliki kekuatan supernatural, yang diwariskan dari generasi ke generasi. Setiap bagian menceritakan petualangan anggota keluarga Joestar yang menghadapi musuh yang kuat dengan kemampuan unik.",
+  "studio": "David Production",
+  "jumlah_episode": "152 (sampai bagian 5)",
+  "penulis": "Hirohiko Araki",
+  "genre": ["Action", "Adventure", "Supernatural"],
+  "status": "On-Going"
+}

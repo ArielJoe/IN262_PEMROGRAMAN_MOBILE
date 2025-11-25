@@ -1,0 +1,13 @@
+{
+  "id": 21,
+  "nama": "Black Clover",
+  "kategori": "Anime",
+  "rating": 8.2,
+  "tahun_terbit": 2017,
+  "deskripsi": "Asta, seorang anak muda tanpa kekuatan sihir di dunia yang penuh dengan sihir, bertekad untuk menjadi Wizard King. Ia berlatih keras dan memperoleh kekuatan melalui perjuangan yang luar biasa.",
+  "studio": "Pierrot",
+  "jumlah_episode": "170",
+  "penulis": "Yūki Tabata",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "Selesai"
+}

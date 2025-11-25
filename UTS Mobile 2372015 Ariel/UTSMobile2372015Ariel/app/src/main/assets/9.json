@@ -1,0 +1,13 @@
+{
+  "id": 9,
+  "nama": "Dragon Ball Z",
+  "kategori": "Anime",
+  "rating": 9.3,
+  "tahun_terbit": 1989,
+  "deskripsi": "Goku dan teman-temannya melanjutkan petualangan mereka untuk melindungi bumi dari ancaman musuh-musuh yang lebih kuat. Dikenal dengan berbagai pertarungan ikonik, Dragon Ball Z adalah salah satu anime paling berpengaruh di dunia.",
+  "studio": "Toei Animation",
+  "jumlah_episode": "291",
+  "penulis": "Akira Toriyama",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "Selesai"
+}

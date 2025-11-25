@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "nama": "Naruto",
+  "kategori": "Anime",
+  "rating": 8.5,
+  "tahun_terbit": 2002,
+  "deskripsi": "Naruto Uzumaki adalah seorang ninja muda yang bercita-cita menjadi Hokage, pemimpin desa, dan dihormati oleh semua orang. Naruto berjuang untuk mengatasi kesepian dan mendapatkan persahabatan serta pengakuan.",
+  "studio": "Studio Pierrot",
+  "jumlah_episode": "220",
+  "penulis": "Masashi Kishimoto",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "Selesai"
+}

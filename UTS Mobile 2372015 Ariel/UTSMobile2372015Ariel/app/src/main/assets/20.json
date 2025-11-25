@@ -1,0 +1,13 @@
+{
+  "id": 20,
+  "nama": "Trigun",
+  "kategori": "Anime",
+  "rating": 8.5,
+  "tahun_terbit": 1998,
+  "deskripsi": "Vash the Stampede, seorang pria dengan harga diri yang tinggi, dikenal dengan julukan 'The Humanoid Typhoon'. Ia dikejar oleh berbagai pihak karena reputasinya yang menghancurkan kota, meskipun ia sebenarnya adalah seorang pacifis.",
+  "studio": "Madhouse",
+  "jumlah_episode": "26",
+  "penulis": "Yasuhiro Nightow",
+  "genre": ["Action", "Western", "Sci-Fi"],
+  "status": "Selesai"
+}

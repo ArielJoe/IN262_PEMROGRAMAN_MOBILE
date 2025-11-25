@@ -1,0 +1,216 @@
+{
+  "status": "success",
+  "message": "Data berhasil dimuat",
+  "data": [
+    {
+      "id": 1,
+      "nama": "Naruto",
+      "kategori": "Anime",
+      "rating": 8.5,
+      "tahun_terbit": 2002
+    },
+    {
+      "id": 2,
+      "nama": "One Piece",
+      "kategori": "Anime",
+      "rating": 9.2,
+      "tahun_terbit": 1999
+    },
+    {
+      "id": 3,
+      "nama": "Attack on Titan",
+      "kategori": "Anime",
+      "rating": 8.8,
+      "tahun_terbit": 2013
+    },
+    {
+      "id": 4,
+      "nama": "Berserk",
+      "kategori": "Manga",
+      "rating": 9.0,
+      "tahun_terbit": 1989
+    },
+    {
+      "id": 5,
+      "nama": "Tokyo Ghoul",
+      "kategori": "Manga",
+      "rating": 8.7,
+      "tahun_terbit": 2011
+    },
+    {
+      "id": 6,
+      "nama": "Demon Slayer",
+      "kategori": "Anime",
+      "rating": 8.9,
+      "tahun_terbit": 2019
+    },
+    {
+      "id": 7,
+      "nama": "My Hero Academia",
+      "kategori": "Anime",
+      "rating": 8.6,
+      "tahun_terbit": 2016
+    },
+    {
+      "id": 8,
+      "nama": "Fullmetal Alchemist",
+      "kategori": "Anime",
+      "rating": 9.1,
+      "tahun_terbit": 2003
+    },
+    {
+      "id": 9,
+      "nama": "Dragon Ball Z",
+      "kategori": "Anime",
+      "rating": 9.3,
+      "tahun_terbit": 1989
+    },
+    {
+      "id": 10,
+      "nama": "Death Note",
+      "kategori": "Anime",
+      "rating": 8.7,
+      "tahun_terbit": 2006
+    },
+    {
+      "id": 11,
+      "nama": "Hunter x Hunter",
+      "kategori": "Anime",
+      "rating": 8.8,
+      "tahun_terbit": 2011
+    },
+    {
+      "id": 12,
+      "nama": "One Punch Man",
+      "kategori": "Anime",
+      "rating": 8.9,
+      "tahun_terbit": 2015
+    },
+    {
+      "id": 13,
+      "nama": "Bleach",
+      "kategori": "Anime",
+      "rating": 8.4,
+      "tahun_terbit": 2004
+    },
+    {
+      "id": 14,
+      "nama": "JoJo's Bizarre Adventure",
+      "kategori": "Anime",
+      "rating": 8.6,
+      "tahun_terbit": 2012
+    },
+    {
+      "id": 15,
+      "nama": "Neon Genesis Evangelion",
+      "kategori": "Anime",
+      "rating": 8.9,
+      "tahun_terbit": 1995
+    },
+    {
+      "id": 16,
+      "nama": "Fairy Tail",
+      "kategori": "Anime",
+      "rating": 8.3,
+      "tahun_terbit": 2009
+    },
+    {
+      "id": 17,
+      "nama": "Mob Psycho 100",
+      "kategori": "Anime",
+      "rating": 8.6,
+      "tahun_terbit": 2016
+    },
+    {
+      "id": 18,
+      "nama": "Yu Yu Hakusho",
+      "kategori": "Anime",
+      "rating": 8.7,
+      "tahun_terbit": 1992
+    },
+    {
+      "id": 19,
+      "nama": "Sword Art Online",
+      "kategori": "Anime",
+      "rating": 8.1,
+      "tahun_terbit": 2012
+    },
+    {
+      "id": 20,
+      "nama": "Trigun",
+      "kategori": "Anime",
+      "rating": 8.5,
+      "tahun_terbit": 1998
+    },
+    {
+      "id": 21,
+      "nama": "Black Clover",
+      "kategori": "Anime",
+      "rating": 8.2,
+      "tahun_terbit": 2017
+    },
+    {
+      "id": 22,
+      "nama": "One Punch Man",
+      "kategori": "Manga",
+      "rating": 8.9,
+      "tahun_terbit": 2009
+    },
+    {
+      "id": 23,
+      "nama": "Tokyo Ghoul:re",
+      "kategori": "Manga",
+      "rating": 8.8,
+      "tahun_terbit": 2014
+    },
+    {
+      "id": 24,
+      "nama": "Attack on Titan: Before the Fall",
+      "kategori": "Manga",
+      "rating": 8.4,
+      "tahun_terbit": 2011
+    },
+    {
+      "id": 25,
+      "nama": "The Promised Neverland",
+      "kategori": "Manga",
+      "rating": 8.7,
+      "tahun_terbit": 2016
+    },
+    {
+      "id": 26,
+      "nama": "Chainsaw Man",
+      "kategori": "Manga",
+      "rating": 9.0,
+      "tahun_terbit": 2018
+    },
+    {
+      "id": 27,
+      "nama": "Doraemon",
+      "kategori": "Manga",
+      "rating": 8.5,
+      "tahun_terbit": 1969
+    },
+    {
+      "id": 28,
+      "nama": "Naruto Shippuden",
+      "kategori": "Anime",
+      "rating": 8.7,
+      "tahun_terbit": 2007
+    },
+    {
+      "id": 29,
+      "nama": "Kaguya-sama: Love is War",
+      "kategori": "Manga",
+      "rating": 8.9,
+      "tahun_terbit": 2015
+    },
+    {
+      "id": 30,
+      "nama": "Fairy Tail: 100 Years Quest",
+      "kategori": "Manga",
+      "rating": 8.4,
+      "tahun_terbit": 2018
+    }
+  ]
+}

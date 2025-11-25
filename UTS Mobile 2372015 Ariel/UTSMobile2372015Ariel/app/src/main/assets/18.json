@@ -1,0 +1,13 @@
+{
+  "id": 18,
+  "nama": "Yu Yu Hakusho",
+  "kategori": "Anime",
+  "rating": 8.7,
+  "tahun_terbit": 1992,
+  "deskripsi": "Yusuke Urameshi, seorang remaja nakal yang meninggal saat mencoba menyelamatkan seorang anak, diberi kesempatan kedua untuk hidup. Ia kemudian menjadi detektif roh, bekerja untuk melindungi dunia dari ancaman dunia roh.",
+  "studio": "Studio Pierrot",
+  "jumlah_episode": "112",
+  "penulis": "Yoshihiro Togashi",
+  "genre": ["Action", "Supernatural", "Adventure"],
+  "status": "Selesai"
+}

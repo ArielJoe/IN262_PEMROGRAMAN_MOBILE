@@ -1,0 +1,13 @@
+{
+  "id": 7,
+  "nama": "My Hero Academia",
+  "kategori": "Anime",
+  "rating": 8.6,
+  "tahun_terbit": 2016,
+  "deskripsi": "Izuku Midoriya, seorang anak muda tanpa kekuatan super di dunia di mana hampir semua orang memilikinya, bermimpi untuk menjadi pahlawan. Setelah bertemu dengan All Might, pahlawan terbesar, ia diberi kesempatan untuk mengejar impiannya.",
+  "studio": "Bones",
+  "jumlah_episode": "88 (hingga season 5)",
+  "penulis": "Kohei Horikoshi",
+  "genre": ["Action", "Superhero", "Comedy"],
+  "status": "On-Going"
+}

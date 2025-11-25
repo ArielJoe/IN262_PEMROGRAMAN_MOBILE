@@ -1,0 +1,13 @@
+{
+  "id": 22,
+  "nama": "One Punch Man",
+  "kategori": "Manga",
+  "rating": 8.9,
+  "tahun_terbit": 2009,
+  "deskripsi": "Saitama adalah seorang superhero yang dapat mengalahkan musuh dengan satu pukulan. Meskipun ia sangat kuat, ia merasa kehidupan superhero terlalu membosankan dan mencari tantangan baru.",
+  "studio": "Shueisha",
+  "jumlah_episode": "22",
+  "penulis": "ONE",
+  "genre": ["Action", "Comedy", "Superhero"],
+  "status": "Selesai"
+}

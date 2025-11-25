@@ -1,0 +1,13 @@
+{
+  "id": 23,
+  "nama": "Tokyo Ghoul:re",
+  "kategori": "Manga",
+  "rating": 8.8,
+  "tahun_terbit": 2014,
+  "deskripsi": "Melanjutkan cerita Tokyo Ghoul, Tokyo Ghoul:re mengikuti perjalanan Haise Sasaki, seorang anggota CCG yang memiliki sejarah kelam sebagai Kaneki, yang berusaha untuk mengungkap kebenaran di balik ancaman ghoul.",
+  "studio": "Shueisha",
+  "jumlah_episode": "16",
+  "penulis": "Sui Ishida",
+  "genre": ["Action", "Horror", "Supernatural"],
+  "status": "Selesai"
+}

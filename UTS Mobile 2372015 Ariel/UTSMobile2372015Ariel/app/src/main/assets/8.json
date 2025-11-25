@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "nama": "Fullmetal Alchemist",
+  "kategori": "Anime",
+  "rating": 9.1,
+  "tahun_terbit": 2003,
+  "deskripsi": "Edward dan Alphonse Elric, dua bersaudara yang menggunakan alkimia untuk menghidupkan kembali ibu mereka, malah kehilangan tubuh mereka. Kini mereka berusaha untuk mendapatkan kembali tubuh mereka dengan mencari Batu Bertuah.",
+  "studio": "Studio Bones",
+  "jumlah_episode": "51 (Fullmetal Alchemist) + 64 (Fullmetal Alchemist: Brotherhood)",
+  "penulis": "Hiromu Arakawa",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "Selesai"
+}

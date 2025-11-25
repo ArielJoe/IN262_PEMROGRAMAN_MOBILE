@@ -1,0 +1,13 @@
+{
+  "id": 26,
+  "nama": "Chainsaw Man",
+  "kategori": "Manga",
+  "rating": 9.0,
+  "tahun_terbit": 2018,
+  "deskripsi": "Denji adalah seorang pemuda yang bekerja sebagai pemburu iblis dengan bantuan anjing iblisnya yang bernama Pochita. Setelah kematiannya, ia terlahir kembali sebagai Chainsaw Man yang dapat memotong apapun dengan gergaji mesin yang terpasang di tubuhnya.",
+  "studio": "Shueisha",
+  "jumlah_episode": "11",
+  "penulis": "Tatsuki Fujimoto",
+  "genre": ["Action", "Horror", "Supernatural"],
+  "status": "Selesai"
+}

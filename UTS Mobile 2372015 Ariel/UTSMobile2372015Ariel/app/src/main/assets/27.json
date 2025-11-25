@@ -1,0 +1,13 @@
+{
+  "id": 27,
+  "nama": "Doraemon",
+  "kategori": "Manga",
+  "rating": 8.5,
+  "tahun_terbit": 1969,
+  "deskripsi": "Doraemon adalah robot kucing dari masa depan yang kembali ke masa kini untuk membantu Nobita, seorang anak yang selalu kesulitan dalam hidup. Doraemon menggunakan berbagai gadget dari kantong ajaibnya untuk mengatasi masalah Nobita.",
+  "studio": "Shogakukan",
+  "jumlah_episode": "1787",
+  "penulis": "Fujiko F. Fujio",
+  "genre": ["Comedy", "Science Fiction", "Children"],
+  "status": "Selesai"
+}

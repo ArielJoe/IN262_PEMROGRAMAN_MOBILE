@@ -1,0 +1,13 @@
+{
+  "id": 19,
+  "nama": "Sword Art Online",
+  "kategori": "Anime",
+  "rating": 8.1,
+  "tahun_terbit": 2012,
+  "deskripsi": "Kirito dan pemain lainnya terjebak dalam game virtual reality, dan mereka harus bertarung untuk bertahan hidup dan keluar dari dunia game tersebut, dengan aturan bahwa jika mereka mati di dalam game, mereka juga mati di dunia nyata.",
+  "studio": "A-1 Pictures",
+  "jumlah_episode": "25 (Season 1)",
+  "penulis": "Rei Kawahara",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "On-Going"
+}

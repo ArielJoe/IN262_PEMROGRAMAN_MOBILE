@@ -1,0 +1,13 @@
+{
+  "id": 11,
+  "nama": "Hunter x Hunter",
+  "kategori": "Anime",
+  "rating": 8.8,
+  "tahun_terbit": 2011,
+  "deskripsi": "Gon Freecss adalah seorang anak yang bercita-cita menjadi seorang Hunter, untuk mencari ayahnya yang telah meninggalkannya. Bersama teman-temannya, Gon menjalani ujian, pertempuran, dan tantangan luar biasa.",
+  "studio": "Madhouse",
+  "jumlah_episode": "148",
+  "penulis": "Yoshihiro Togashi",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "Selesai"
+}

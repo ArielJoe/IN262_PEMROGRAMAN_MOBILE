@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "nama": "Naruto Shippuden",
+  "kategori": "Anime",
+  "rating": 8.7,
+  "tahun_terbit": 2007,
+  "deskripsi": "Naruto Uzumaki kembali setelah dua setengah tahun untuk melanjutkan pencariannya dalam menjadi Hokage. Bersama teman-temannya, ia berjuang menghadapi musuh yang lebih kuat dan mengungkap rahasia masa lalu yang gelap.",
+  "studio": "Pierrot",
+  "jumlah_episode": "500",
+  "penulis": "Masashi Kishimoto",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "status": "Selesai"
+}
