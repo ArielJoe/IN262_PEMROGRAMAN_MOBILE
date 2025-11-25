@@ -1,8 +1,10 @@
 ﻿# Project Branching
-- Pertemuan 1 → Branch P1
-- Pertemuan 2 → Branch P2
-- Pertemuan 3 → Branch P3
-- Pertemuan 4 → Branch P4
-- Pertemuan 5 → Branch P5
-- Pertemuan 6 → Branch P6
-- Pertemuan 7 → Branch P7
+- Pertemuan 1 → [Branch P1](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P1)
+- Pertemuan 2 → [Branch P2](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P2)
+- Pertemuan 3 → [Branch P3](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P3)
+- Pertemuan 4 → [Branch P4](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P4)
+- Pertemuan 5 → [Branch P5](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P5)
+- Pertemuan 6 → [Branch P6](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P6)
+- Pertemuan 7 → [Branch P7](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P7)
+- Pertemuan 8 → [Branch P8](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P8)
+- Pertemuan 9 → [Branch P9](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P9)
