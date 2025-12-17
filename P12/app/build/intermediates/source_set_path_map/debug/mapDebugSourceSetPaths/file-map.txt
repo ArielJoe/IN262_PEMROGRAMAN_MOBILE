@@ -1,0 +1,60 @@
+com.example.p12.app-ui-text-0 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\0089f952307b14a2f32c00f2161a95b4\transformed\ui-text\res
+com.example.p12.app-ui-1 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\0255d384797b01049c12223dd81d4cd9\transformed\ui\res
+com.example.p12.app-ads-adservices-1.1.0-beta11-2 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\0fce1582013bbd1bee5ce1bea4f5c1fe\transformed\ads-adservices-1.1.0-beta11\res
+com.example.p12.app-core-common-2.0.3-3 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\1fbe89c7e181f83c95285af3774837fe\transformed\core-common-2.0.3\res
+com.example.p12.app-browser-1.4.0-4 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\20693229a193e737d9f7384dff42ef26\transformed\browser-1.4.0\res
+com.example.p12.app-foundation-5 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\2225adb98bfa5bd82ec10025701fc8aa\transformed\foundation\res
+com.example.p12.app-core-ktx-1.17.0-6 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\227d26ba1db438359306621e3a044a61\transformed\core-ktx-1.17.0\res
+com.example.p12.app-savedstate-7 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\22c8b8e661d908bf0d213de7f577f6fc\transformed\savedstate\res
+com.example.p12.app-credentials-1.2.0-rc01-8 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\25e3056ea1be36e7497278ed62d71c95\transformed\credentials-1.2.0-rc01\res
+com.example.p12.app-datastore-preferences-core-release-9 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\2d8ab6808949b7803204e6ff914644a6\transformed\datastore-preferences-core-release\res
+com.example.p12.app-graphics-path-1.0.1-10 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\355ea4bd1f3d6894aa6c382ca307d5e7\transformed\graphics-path-1.0.1\res
+com.example.p12.app-transition-1.6.0-11 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\4037a5c7cea83eb0e6d675cee16896b6\transformed\transition-1.6.0\res
+com.example.p12.app-play-services-auth-21.3.0-12 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\426e6637a9cc35414237ea7a7274bb60\transformed\play-services-auth-21.3.0\res
+com.example.p12.app-activity-ktx-1.12.1-13 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\4a060fb0e11e145522720cc376a100f6\transformed\activity-ktx-1.12.1\res
+com.example.p12.app-fragment-1.5.7-14 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\4b96b629c50231f93a2848219120b1e0\transformed\fragment-1.5.7\res
+com.example.p12.app-core-viewtree-1.0.0-15 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\4cac1d366a7cc6594a724c63b06db21c\transformed\core-viewtree-1.0.0\res
+com.example.p12.app-core-1.17.0-16 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\4d999c9a0dece97c84ee885281b88152\transformed\core-1.17.0\res
+com.example.p12.app-play-services-base-18.5.0-17 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\5902e150b8b06ad3cad7760d93dcec0e\transformed\play-services-base-18.5.0\res
+com.example.p12.app-material3-release-18 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\597dc31993f2de57cc7d0b104e3c6aa4\transformed\material3-release\res
+com.example.p12.app-ui-tooling-19 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\6a837aea4c43ffe3c10f252414467168\transformed\ui-tooling\res
+com.example.p12.app-credentials-play-services-auth-1.2.0-rc01-20 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\7281262d2fe2c01cb2d0365bcfecf6f0\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.p12.app-emoji2-1.4.0-21 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\7465fd8d2717e2beec74e2f303c1f731\transformed\emoji2-1.4.0\res
+com.example.p12.app-runtime-saveable-22 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\7a7c978ca61b690a3126fd529978acbf\transformed\runtime-saveable\res
+com.example.p12.app-datastore-preferences-release-23 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\832919c854693e8ddaddf0fb0f8b876a\transformed\datastore-preferences-release\res
+com.example.p12.app-tracing-1.2.0-24 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\867854ba2ff20a330e5963e48464dd8b\transformed\tracing-1.2.0\res
+com.example.p12.app-profileinstaller-1.4.0-25 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\89d3b21c28af9c68a60a4a629d18d987\transformed\profileinstaller-1.4.0\res
+com.example.p12.app-play-services-basement-18.5.0-26 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\910f49117609b639f02b20eb21bd97d1\transformed\play-services-basement-18.5.0\res
+com.example.p12.app-window-1.5.0-27 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\93e5c5a0d8d2039913ac69df33bee64e\transformed\window-1.5.0\res
+com.example.p12.app-ui-test-manifest-1.10.0-28 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\93f80e9ce8fbdc0fe951bcc931117fa7\transformed\ui-test-manifest-1.10.0\res
+com.example.p12.app-datastore-core-release-29 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\94dbe844e3e88d9dae3c8d7738bc5034\transformed\datastore-core-release\res
+com.example.p12.app-lifecycle-runtime-30 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\995dc3c0e9eeec6c7c8d355d601a9772\transformed\lifecycle-runtime\res
+com.example.p12.app-ui-graphics-31 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\9a404db2403a52500e8654504bd965dd\transformed\ui-graphics\res
+com.example.p12.app-lifecycle-process-2.10.0-32 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\9c348489a0f84003fc4a937121726725\transformed\lifecycle-process-2.10.0\res
+com.example.p12.app-datastore-release-33 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\a91e1787543871d8a3fbd011ed73c4eb\transformed\datastore-release\res
+com.example.p12.app-savedstate-ktx-1.4.0-34 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\b294f35562e51438a583f4d4ca164553\transformed\savedstate-ktx-1.4.0\res
+com.example.p12.app-customview-poolingcontainer-1.0.0-35 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\b36f7458322def7572a698e76474856f\transformed\customview-poolingcontainer-1.0.0\res
+com.example.p12.app-lifecycle-livedata-core-2.10.0-36 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\b7662e8c276b873e8ef1babd6facf60b\transformed\lifecycle-livedata-core-2.10.0\res
+com.example.p12.app-navigationevent-37 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\b8e90b1ba49d5bd6b0a4d1ad16675c5f\transformed\navigationevent\res
+com.example.p12.app-material-release-38 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\b992e8a41053aef2c8ddbb645bb0d6f3\transformed\material-release\res
+com.example.p12.app-startup-runtime-1.1.1-39 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\c1a88b63caa169bd16434f15c7cbcddb\transformed\startup-runtime-1.1.1\res
+com.example.p12.app-material-ripple-release-40 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\c2d439b4ca4dd3ba152c22ccd55d3f1c\transformed\material-ripple-release\res
+com.example.p12.app-material-icons-core-release-41 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\c40956bfe418e8021a742ad0ef1352dc\transformed\material-icons-core-release\res
+com.example.p12.app-firebase-common-22.0.1-42 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\c78a365765caf8f42ab907cd682db90b\transformed\firebase-common-22.0.1\res
+com.example.p12.app-lifecycle-viewmodel-43 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\ca2a4f649038dc4608dbccfa2de2d9c9\transformed\lifecycle-viewmodel\res
+com.example.p12.app-material-icons-extended-release-44 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\cbf8b1259a05ecc9fa131cd1519ddfe8\transformed\material-icons-extended-release\res
+com.example.p12.app-activity-compose-1.12.1-45 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\d483589cc136feda3809e084d58805ab\transformed\activity-compose-1.12.1\res
+com.example.p12.app-activity-1.12.1-46 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\e220bd5bfb651075e233b883ba7dd9f2\transformed\activity-1.12.1\res
+com.example.p12.app-ads-adservices-java-1.1.0-beta11-47 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\eb78bec99dd6558140a407c86fd762e1\transformed\ads-adservices-java-1.1.0-beta11\res
+com.example.p12.app-annotation-experimental-1.4.1-48 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\ee02bdff41fe6b7ca4e99a1e8177c54e\transformed\annotation-experimental-1.4.1\res
+com.example.p12.app-core-runtime-2.2.0-49 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\f74dd635493c932a8ce2da69f0efc35d\transformed\core-runtime-2.2.0\res
+com.example.p12.app-lifecycle-viewmodel-ktx-2.10.0-50 C:\Users\ARIEL_JOE-LOQ\.gradle\caches\8.13\transforms\fd26bf6ac7fba888fb496a761aa12036\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.example.p12.app-pngs-51 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\build\generated\res\pngs\debug
+com.example.p12.app-res-52 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\build\generated\res\processDebugGoogleServices
+com.example.p12.app-resValues-53 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\build\generated\res\resValues\debug
+com.example.p12.app-updated_navigation_xml-54 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\build\generated\updated_navigation_xml\debug
+com.example.p12.app-packageDebugResources-55 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.p12.app-packageDebugResources-56 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.p12.app-debug-57 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.p12.app-debug-58 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\src\debug\res
+com.example.p12.app-main-59 D:\Kuliah\Semester 5\IN262 - PEMROGRAMAN MOBILE\P12\app\src\main\res
