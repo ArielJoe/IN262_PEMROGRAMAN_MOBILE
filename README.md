@@ -9,3 +9,5 @@
 - Pertemuan 8 → [Branch P8](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P8)
 - Pertemuan 9 → [Branch P9](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P9)
 - Pertemuan 10 → [Branch P10](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P10)
+- Pertemuan 11 → [Branch P10](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P11)
+- Pertemuan 12 → [Branch P10](https://github.com/ArielJoe/IN262_PEMROGRAMAN_MOBILE/tree/P12)
