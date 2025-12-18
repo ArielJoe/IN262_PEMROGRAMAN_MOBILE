@@ -54,6 +54,8 @@ dependencies {
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.compose.animation.core.lint)
     implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation(libs.firebase.database)
+    implementation(libs.androidx.navigation.compose)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

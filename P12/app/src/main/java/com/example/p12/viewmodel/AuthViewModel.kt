@@ -16,6 +16,7 @@ class AuthViewModel : ViewModel() {
     var errMsg by mutableStateOf<String?>(null)
 
     init {
+        // signOut()
         user = auth.currentUser
     }
 
